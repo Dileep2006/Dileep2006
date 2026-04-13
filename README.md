@@ -1,16 +1,16 @@
 # 💫 About Me:
 
-- 💻 I’m currently working on building real-world projects in **Machine Learning** and **Full-Stack Development**
+💻 I’m currently working on building real-world projects in **Machine Learning** and **Full-Stack Development**
 
-- 🤝 I’m looking to collaborate on **AI/ML projects** and beginner-friendly **open source contributions**
+🤝 I’m looking to collaborate on **AI/ML projects** and beginner-friendly **open source contributions**
 
-- 🆘 I’m looking for help with improving **problem-solving skills (DSA)** and understanding **advanced ML concepts**
+🆘 I’m looking for help with improving **problem-solving skills (DSA)** and understanding **advanced ML concepts**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**, **Machine Learning**, and **Backend Development (Java)**
+🌱 I’m currently learning **Data Structures & Algorithms**, **Machine Learning**, and **Backend Development (Java)**
 
-- 💬 Ask me about **Java, Basic DSA, DBMS**, and **Beginner-Level Machine Learning**
+💬 Ask me about **Java, Basic DSA, DBMS**, and **Beginner-Level Machine Learning**
 
-- ⚡ Fun fact: I focus more on **building practical projects** than just collecting theory or certificates
+⚡ Fun fact: I focus more on **building practical projects** than just collecting theory or certificates
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dileep Kumar Ponnada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ponnadadravid12@gmail.com) 
